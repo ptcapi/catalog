@@ -1,2 +1,2 @@
 # catalog
-Hierarchical collection of swagger files and other documents for our API catalog. 
+Hierarchical collection of OpenAPI files and other documents for our API catalog. 
